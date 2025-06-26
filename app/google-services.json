@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "194831710502",
+    "project_id": "mentalhealthjournal-97a6d",
+    "storage_bucket": "mentalhealthjournal-97a6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194831710502:android:4a52d324b24dad7cf269e7",
+        "android_client_info": {
+          "package_name": "com.example.mentalhealthjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194831710502-6h8ec2rlpq3jhlfp8hglekjito2ej08e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentalhealthjournal",
+            "certificate_hash": "55b2711d82303f0d4d8e371ec44176edabc913c5"
+          }
+        },
+        {
+          "client_id": "194831710502-d5ljbl1vaajkba8biks7b1acijotrh8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHS5uNKHOVzMV95SHEq1NLtfCR5SJASA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194831710502-d5ljbl1vaajkba8biks7b1acijotrh8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
