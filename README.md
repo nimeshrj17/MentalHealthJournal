@@ -40,6 +40,9 @@ Maintaining mental health is as important as physical health. I wanted to create
 </details>
 
 ---
+##Screenshots
+![Screenshot_20250707_221843](https://github.com/user-attachments/assets/4a06a2bc-f062-450d-bbf1-40a7a72aa7e5)
+
 
 ## 🚀 Quick Start
 
@@ -102,8 +105,8 @@ Maintaining mental health is as important as physical health. I wanted to create
 I welcome contributions! If you’d like to improve, add features, or report bugs:
 
 1. Fork this repo
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+2. Create a feature branch 
+3. Commit changes 
 4. Push and open a pull request
 
 Please follow Kotlin conventions and include clear documentation/comments.
@@ -138,7 +141,7 @@ For other issues, see the [Issues](https://github.com/nimeshrj17/MentalHealthJou
 ## 👋 Contact
 
 I’m actively seeking Android developer roles and open to collaboration!  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) or email me at [your.email@example.com]
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nimesh-ranjan-98a965220/) or email me at [nimesh.rj17@gmail.com]
 
 ---
 
