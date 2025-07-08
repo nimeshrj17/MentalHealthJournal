@@ -41,7 +41,12 @@ Maintaining mental health is as important as physical health. I wanted to create
 
 ---
 ##Screenshots
-![Screenshot_20250707_221843](https://github.com/user-attachments/assets/4a06a2bc-f062-450d-bbf1-40a7a72aa7e5)
+![Screensho![Screenshot_20250707_221415](https://github.com/user-attachments/assets/0d7e4703-2320-493a-8556-226850d1519f)
+t_20250707_221843](https://github.com/user-attachments/assets/4a06a2bc-f062-450d-bbf1-40a7a72aa7e5)
+![Screenshot_20250707_221658](https://github.com/user-attachments/assets/2fa3cc61-7dc7-4e6a-9d68-e705501e3596)
+![Screenshot_2025![Screenshot_20250707_221733](https://github.com/user-attachments/assets/ad1bd891-289e-4784-a576-dbf69463e441)
+0707_221715](htt![Screenshot_20250707_221820](https://github.com/user-attachments/assets/2cb21baf-0469-4fde-a3d1-25c32e8ce45f)
+ps://github.com/user-attachments/assets/c7ba15f4-f50d-4b5b-b894-f0b0bf2d8d67)
 
 
 ## 🚀 Quick Start
